@@ -9,6 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="color1">#FF8989</color>
     <color name="red">#FF0000</color>
+    <color name="color3">#FF9209</color>
     <color name="color2">#2C3333</color>
     <color name="btnColor">#2C3333</color>
 </resources>
