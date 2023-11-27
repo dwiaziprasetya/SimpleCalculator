@@ -174,7 +174,7 @@ class MainActivity : AppCompatActivity() {
             }else{
                 // Show Result
                 tvResult.text = DecimalFormat("0.#######").format(result).toString()
-                tvResult.setTextColor(ContextCompat.getColor(this,R.color.color1))
+                tvResult.setTextColor(ContextCompat.getColor(this,R.color.color3))
             }
         }catch (e:Exception){
             // Show Error Message

@@ -23,12 +23,14 @@
             android:gravity="center_vertical"
             android:textColor="@color/white"
             android:text=""
+            android:fontFamily="@font/spacegroteskmedium"
             android:textSize="30sp"
             android:layout_gravity="end"/>
 
         <TextView
             android:id="@+id/tvResult"
             android:paddingRight="30dp"
+            android:fontFamily="@font/spacegroteskmedium"
             android:layout_width="wrap_content"
             android:layout_height="0dp"
             android:gravity="center_vertical"
@@ -54,6 +56,7 @@
 
             <Button
                 android:id="@+id/btnC"
+                android:fontFamily="@font/spacegroteskmedium"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -67,6 +70,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:fontFamily="@font/spacegroteskmedium"
                 android:textSize="@dimen/calButtonSize"
                 android:background="@color/color2"
                 android:textColor="@color/color3"
@@ -80,6 +84,7 @@
                 android:textSize="@dimen/calButtonSize"
                 android:background="@color/color2"
                 android:textColor="@color/color3"
+                android:fontFamily="@font/spacegroteskmedium"
                 android:text="%"/>
 
             <Button
@@ -90,6 +95,7 @@
                 android:background="@color/color2"
                 android:textSize="@dimen/calButtonSize"
                 android:textColor="@color/color3"
+                android:fontFamily="@font/spacegroteskmedium"
                 android:text="/"/>
 
         </LinearLayout>
@@ -107,6 +113,7 @@
                 android:background="@color/color2"
                 android:textSize="@dimen/calButtonSize"
                 android:textColor="@color/white"
+                android:fontFamily="@font/spacegroteskmedium"
                 android:text="7"/>
 
             <Button
@@ -117,6 +124,7 @@
                 android:textSize="@dimen/calButtonSize"
                 android:background="@color/color2"
                 android:textColor="@color/white"
+                android:fontFamily="@font/spacegroteskmedium"
                 android:text="8"/>
 
             <Button
@@ -127,6 +135,7 @@
                 android:textSize="@dimen/calButtonSize"
                 android:background="@color/color2"
                 android:textColor="@color/white"
+                android:fontFamily="@font/spacegroteskmedium"
                 android:text="9"/>
 
             <Button
@@ -154,6 +163,7 @@
                 android:background="@color/color2"
                 android:textSize="@dimen/calButtonSize"
                 android:textColor="@color/white"
+                android:fontFamily="@font/spacegroteskmedium"
                 android:text="4"/>
 
             <Button
@@ -164,6 +174,7 @@
                 android:textSize="@dimen/calButtonSize"
                 android:background="@color/color2"
                 android:textColor="@color/white"
+                android:fontFamily="@font/spacegroteskmedium"
                 android:text="5"/>
 
             <Button
@@ -174,6 +185,7 @@
                 android:textSize="@dimen/calButtonSize"
                 android:background="@color/color2"
                 android:textColor="@color/white"
+                android:fontFamily="@font/spacegroteskmedium"
                 android:text="6"/>
 
             <Button
@@ -184,6 +196,7 @@
                 android:background="@color/color2"
                 android:textSize="@dimen/calButtonSize"
                 android:textColor="@color/color3"
+                android:fontFamily="@font/spacegroteskmedium"
                 android:text="-"/>
 
         </LinearLayout>
@@ -201,6 +214,7 @@
                 android:background="@color/color2"
                 android:textSize="@dimen/calButtonSize"
                 android:textColor="@color/white"
+                android:fontFamily="@font/spacegroteskmedium"
                 android:text="1"/>
 
             <Button
@@ -211,6 +225,7 @@
                 android:textSize="@dimen/calButtonSize"
                 android:background="@color/color2"
                 android:textColor="@color/white"
+                android:fontFamily="@font/spacegroteskmedium"
                 android:text="2"/>
 
             <Button
@@ -221,6 +236,7 @@
                 android:textSize="@dimen/calButtonSize"
                 android:background="@color/color2"
                 android:textColor="@color/white"
+                android:fontFamily="@font/spacegroteskmedium"
                 android:text="3"/>
 
             <Button
@@ -231,6 +247,7 @@
                 android:background="@color/color2"
                 android:textSize="@dimen/calButtonSize"
                 android:textColor="@color/color3"
+                android:fontFamily="@font/spacegroteskmedium"
                 android:text="+"/>
 
         </LinearLayout>
@@ -248,6 +265,7 @@
                 android:textSize="@dimen/calButtonSize"
                 android:background="@color/color2"
                 android:textColor="@color/white"
+                android:fontFamily="@font/spacegroteskmedium"
                 android:text="0"/>
 
             <Button
@@ -258,6 +276,7 @@
                 android:textSize="@dimen/calButtonSize"
                 android:background="@color/color2"
                 android:textColor="@color/white"
+                android:fontFamily="@font/spacegroteskmedium"
                 android:text="."/>
 
             <Button
@@ -268,11 +287,11 @@
                 android:textSize="40sp"
                 android:background="@color/color3"
                 android:textColor="@color/white"
+                android:fontFamily="@font/spacegroteskmedium"
                 android:text="="/>
 
         </LinearLayout>
 
     </LinearLayout>
-
 
 </LinearLayout>
